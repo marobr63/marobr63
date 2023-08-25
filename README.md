@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @marobr63
-- 👀 I’m interested by the domotic
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in home automation
+- 🌱 I am currently interested in Home Assistant from Jeedom
+- 💞️ For now I am starting and I have no spawning project to expose or share.
 - 📫 How to reach me ...
 
 <!---
